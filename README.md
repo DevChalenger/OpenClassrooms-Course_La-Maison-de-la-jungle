@@ -12,6 +12,8 @@
 
 <a  href="#LanguagesAndTools">Languages and Tools</a>
 
+<a  href="#Installation">Installation</a>
+
 </div>
 
 <div>
@@ -76,4 +78,10 @@ This project was produced thanks to this course:
 
 </p>
 
-</dov>
+</div>
+
+<div>
+  <h3 align="left" id="Installation">Intallation:</h3>
+  <p>The installation steps for frontend is there</p>
+  <a href="./la-maison-jungle/README.md">Frontend Installation</a>
+</div>
