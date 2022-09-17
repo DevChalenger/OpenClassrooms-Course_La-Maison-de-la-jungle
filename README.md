@@ -1,9 +1,8 @@
 <h1  align="center"> OpenClassrooms Course La Maison de la jungle</h1>
 
 <div>
-<img class="appScreen" src="https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg?w=2000"  width="500"  alt="app-screen">
+<img class="appScreen" src="Readme.assets\app-screen.png" width="500"  alt="app-screen">
 </div>
-
 
 <div  id="SumaryBlock">
 
